@@ -16,6 +16,8 @@
 #ifndef __SOC_H_
 #define __SOC_H_
 
+#define UART_NS16550_ACCESS_IOPORT 0x3f8
+
 #include <sys/util.h>
 
 #ifndef _ASMLANGUAGE
